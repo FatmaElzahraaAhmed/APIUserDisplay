@@ -1,0 +1,12 @@
+.col-md-3{
+    background-color: #f0f0f0;
+    /* background-color: rgba(102, 205, 171, 0.38); */
+    margin: 20px;
+    padding: 30px 10px 30px 10px;
+    border-radius: 20px;
+    box-shadow: #eeeeee 0px 0px 10px;
+}
+h5{
+    padding-top: 20px;
+    text-align: center;
+}
